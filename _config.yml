@@ -33,6 +33,12 @@ github_username: eenexplicable
 remote_theme: jekyll/minima
 minima:
   skin: dark
+show-excerpts: true
+site:
+  author:
+    name: eenexplicable
+    email: eenexplicable@tutamail.com
+  
 plugins:
   - jekyll-feed
 # Exclude from processing.
